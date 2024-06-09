@@ -4,5 +4,5 @@ I am Learning A git and Github
 2. ls - show all files
 3. git add  - staging area --- { "git rm --cached <file>" to unstage }
 4. git  commit -> next -> repo
-5. git log - to show the commit message
+5. git log - to show the commit message  for short --oneline
 6. git push  - > GitHub...
