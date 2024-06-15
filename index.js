@@ -44,3 +44,4 @@ for (let index = 0; index < arr.length; index++) {
 }
 console.log('Hello world1');
 console.log('Javascript is Great!');
+console.log('Javascript is sucks!');
