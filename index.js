@@ -42,3 +42,4 @@ var arr = [1,2,3,4];
 for (let index = 0; index < arr.length; index++) {
     console.log(arr[index])
 }
+console.log('Hello world1');
